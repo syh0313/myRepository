@@ -1,5 +1,5 @@
 
-    CString csYJSJ = "2021-02-20 08:52:33";
+    	CString csYJSJ = "2021-02-20 08:52:33";
 	
 	wstring beforeTime,afterTime;
 	COleDateTimeSpan spanAfter(0, 0, 0, atoi((LPSTR)(LPCSTR)VideoAfterIndex.c_str()));
